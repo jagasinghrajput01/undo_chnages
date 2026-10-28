@@ -1,0 +1,1 @@
+print("world is full of chaos so always be happy and smile")
